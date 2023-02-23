@@ -1,0 +1,3 @@
+C:/FACULTATE/Anul I Sem 2/SD/AllBSTPreorders/cmake-build-debug/CMakeFiles/AllBSTPreorders.dir
+C:/FACULTATE/Anul I Sem 2/SD/AllBSTPreorders/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/FACULTATE/Anul I Sem 2/SD/AllBSTPreorders/cmake-build-debug/CMakeFiles/rebuild_cache.dir
